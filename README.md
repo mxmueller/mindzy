@@ -1,1 +1,1 @@
-# mindzy_production
+# Mindzy
